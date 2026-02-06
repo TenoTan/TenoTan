@@ -1,6 +1,14 @@
 # 💫 About Me:
 Hi there! i'm Tanvi Gupta, third year IT student at MIT Manipal.<br><br><br>Working on every flying thought that occurs to me at the most random hour of my days.
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TanviGupta21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptatanvi.099@gmail.com) 
