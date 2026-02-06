@@ -11,7 +11,7 @@ Working on every flying thought that occurs to me at the most random hour of my 
 </p>
 
 <p>
-<a href="www.linkedin.com/in/tanvigupta21">
+<a href="https://www.linkedin.com/in/tanvigupta21">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </p>
