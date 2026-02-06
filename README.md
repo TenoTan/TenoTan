@@ -32,9 +32,6 @@ Working on every flying thought that occurs to me at the most random hour of my 
 <br/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=TenoTan&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TenoTan&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TenoTan&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
