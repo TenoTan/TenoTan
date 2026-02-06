@@ -14,9 +14,6 @@ Working on every flying thought that occurs to me at the most random hour of my 
 <a href="www.linkedin.com/in/tanvigupta21">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://leetcode.com/u/Pranav_Kumar14/">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-</a>
 </p>
 
 </div>
